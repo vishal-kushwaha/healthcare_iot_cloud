@@ -1,0 +1,6 @@
+{
+  "type": "SPO2",
+  "avg_min": 90,
+  "avg_max": 100,
+  "trigger_count": 5
+}

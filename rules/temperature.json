@@ -1,0 +1,6 @@
+{
+  "type": "Temperature",
+  "avg_min": 90,
+  "avg_max": 98.5,
+  "trigger_count": 5
+}

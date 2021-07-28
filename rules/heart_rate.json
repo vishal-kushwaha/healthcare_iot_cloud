@@ -1,0 +1,6 @@
+{
+  "type": "HeartRate",
+  "avg_min": 75,
+  "avg_max": 85,
+  "trigger_count": 5
+}
